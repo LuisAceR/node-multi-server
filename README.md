@@ -9,16 +9,17 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
    
    Puedes verificar si está instalado con el siguiente comando:
 
-        ```
-        node -v
-        ```
+      ```
+      node -v
+      ```
+      
 2. **Docker**: Si deseas ejecutar el servidor en un contenedor, asegúrate de tener Docker instalado.
 
     Verifica que Docker esté instalado correctamente:
 
-        ```
-        docker -v
-        ```
+      ```
+      docker -v
+      ```
 
 # Instalacion
 Sigue estos pasos para instalar y ejecutar el proyecto localmente:
