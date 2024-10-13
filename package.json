@@ -1,0 +1,12 @@
+{
+  "name": "practica-mi-primer-servidor",
+  "version": "1.0.0",
+  "description": "Este proyecto implementa un servidor básico en Node.js con diferentes versiones: un servidor simple, un servidor síncrono y un servidor asíncrono. Todas las versiones están disponibles a través de diferentes rutas. Además, el proyecto incluye la implementación de Docker para la fácil distribución y ejecución del servidor.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["nodejs", "servidor", "docker"],
+  "author": "Luis Jair Acevedo Rubio 360777",
+  "license": "ISC"
+}
